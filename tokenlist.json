@@ -1,0 +1,26 @@
+{
+  "name": "Ice Snow Coin Token List",
+  "timestamp": "2026-05-02T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://icesnowcoin.com/isc_logo.png",
+  "keywords": [
+    "icesnowcoin",
+    "isc",
+    "defi",
+    "gamefi"
+  ],
+  "tokens": [
+    {
+      "name": "Ice Snow Coin",
+      "symbol": "ISC",
+      "address": "0x11229a3f976566FA8a3ba462C432122f3B8876f6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://icesnowcoin.com/isc_logo.png"
+    }
+  ]
+}
